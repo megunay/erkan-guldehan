@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T18:38:47.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" version="14.2.9" etag="_SBfGJOg7z_Px1Bb-Cwd" type="github"><diagram id="vhoqDaeiG8bJX4mmcR7G">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-11T18:51:11.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="ahIcGxAXWqJ8eRfeAGCw" version="14.2.9" type="github">
+  <diagram id="vhoqDaeiG8bJX4mmcR7G" name="Page-1">
+    <mxGraphModel dx="383" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V-80e1C9m63ycFmsY9YJ-1" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#9999ff&quot;&gt;&lt;b&gt;Girişim Kaynak Planlama&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(153 , 153 , 255)&quot;&gt;ÜRÜN&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(153 , 153 , 255)&quot;&gt;FİYAT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V-80e1C9m63ycFmsY9YJ-2" value="&lt;b&gt;&lt;font color=&quot;#9999ff&quot;&gt;Depo Yönetim Sistemi&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(153 , 153 , 255)&quot;&gt;Envanter&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(153 , 153 , 255)&quot;&gt;Sipariş/Gönderi Durumu&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="V-80e1C9m63ycFmsY9YJ-3" value="&lt;b&gt;&lt;font color=&quot;#9999ff&quot;&gt;SFCC B2C&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; background-color: rgb(153 , 153 , 255)&quot;&gt;Bağlılık Verisi&lt;br&gt;&lt;br&gt;Promosyonlar&lt;br&gt;&lt;br&gt;Sosyal hesap girişi&lt;br&gt;&lt;br&gt;İçerik&lt;br&gt;&lt;br&gt;Mağazalar&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="324" y="290" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="V-80e1C9m63ycFmsY9YJ-4" value="&lt;b&gt;&lt;font color=&quot;#9999ff&quot;&gt;Ürün Bilgi Yönetimi&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(153 , 153 , 255)&quot;&gt;Ürün - Bilgi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V-80e1C9m63ycFmsY9YJ-5" value="&lt;font color=&quot;#9999ff&quot;&gt;&lt;b&gt;Pazarlama&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(153 , 153 , 255)&quot;&gt;E-Mail&lt;br&gt;&lt;br&gt;Bülten Üyeliği&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V-80e1C9m63ycFmsY9YJ-6" value="&lt;font color=&quot;#9999ff&quot;&gt;&lt;b&gt;CRM &amp;amp; POS&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(153 , 153 , 255)&quot;&gt;Bütüncül Kanal&lt;br&gt;&lt;br&gt;Bağlılık Motoru&lt;br&gt;&lt;br&gt;İade&lt;br&gt;&lt;br&gt;Müşteri Hizmetleri&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="585" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="V-80e1C9m63ycFmsY9YJ-7" value="&lt;font color=&quot;#9999ff&quot;&gt;&lt;b&gt;Ödeme Sistem Sağlayıcısı&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(153 , 153 , 255)&quot;&gt;Binance Ödeme&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="585" width="124" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="V-80e1C9m63ycFmsY9YJ-8" value="&lt;font color=&quot;#9999ff&quot;&gt;&lt;b&gt;Ana Veri Yönetimi&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(153 , 153 , 255)&quot;&gt;Siparişler&lt;br&gt;&lt;br&gt;Müşteriler&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="450" width="124" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="V-80e1C9m63ycFmsY9YJ-9" value="&lt;font color=&quot;#9999ff&quot;&gt;&lt;b&gt;Ana Veri Yönetimi&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(153 , 153 , 255)&quot;&gt;Siparişler&lt;br&gt;&lt;br&gt;Müşteriler&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="290" width="124" height="85" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
